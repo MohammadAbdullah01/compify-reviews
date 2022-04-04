@@ -1,5 +1,5 @@
 .mom {
-    background-color: #2156fa;
+    background-color: #FA7D19;
     height: 50px;
     display: flex;
     align-items: center;
@@ -18,11 +18,12 @@
     align-items: center;
     position: absolute;
     left: 0;
-    background-color: #2156fa;
+    background-color: #FA7D19;
 }
 
 .logo {
-    color: white;
+    color: black;
+    cursor: pointer;
 }
 
 
@@ -38,7 +39,7 @@
 
 @media only screen and (min-width: 600px) {
     .mom {
-        background-color: #2156fa;
+        background-color: #FA7D19;
         height: 70px;
         display: flex;
         align-items: center;
@@ -46,7 +47,7 @@
 
     .header-container {
         /* height: 70px; */
-        background-color: #2156fa;
+        background-color: #FA7D19;
         align-items: center;
         justify-content: center;
     }
@@ -60,7 +61,7 @@
         flex-direction: row;
         justify-content: center;
         position: static;
-        background-color: #2156fa;
+        background-color: #FA7D19;
     }
 
 

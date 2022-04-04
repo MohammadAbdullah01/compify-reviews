@@ -1,9 +1,10 @@
 import React from 'react';
-import { Container, Row } from 'react-bootstrap';
+import { Container, Row, Spinner } from 'react-bootstrap';
 import useReviews from '../../hooks/useReviews';
 import Review from '../Review/Review'
 
 const Reviews = () => {
+
     const [reviews, setReviews] = useReviews()
     console.log(reviews)
     return (
@@ -16,7 +17,6 @@ const Reviews = () => {
                 ></Review>)}
             </Row>
         </Container>
-
 
     );
 };
