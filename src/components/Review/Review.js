@@ -1,7 +1,9 @@
 import React from 'react';
 import { Col } from 'react-bootstrap';
 import './Review.css'
-
+import Rating from 'react-rating';
+import { faStar } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const Reviews = ({ review }) => {
     const { name, picture, opinion, ratings } = review;
     return (
@@ -14,7 +16,15 @@ const Reviews = ({ review }) => {
                 </div>
                 <div className='review-description'>
                     <h3>{name}</h3>
-                    <h4>{ratings}</h4>
+                    {/* <h4>{ratings}</h4> */}
+                    <p style={{ color: "gray", marginBottom: "0" }}> <small>{ratings} out of 5</small></p>
+                    <Rating style={{ marginBottom: "10px" }}
+                        initialRating={ratings}
+                        emptySymbol={<FontAwesomeIcon icon={faStar} />}
+                        fullSymbol={<FontAwesomeIcon style={{ color: 'goldenrod' }} icon={faStar} />}
+                        readonly
+                    ></Rating>
+
                     <p>{opinion}</p>
                 </div>
             </div>

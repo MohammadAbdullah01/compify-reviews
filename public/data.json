@@ -4,14 +4,14 @@
         "name": "Abdullah",
         "opinion": "This is the first time I will be using an Apple computer. And I am amazed at the beautiful and sleek look of the product. I also love the Touch Bar. Definitely a good buy.",
         "picture": "https://randomuser.me/api/portraits/men/67.jpg",
-        "ratings": "5.0"
+        "ratings": "5"
     },
     {
         "id": 2,
         "name": "Sindrella",
-        "opinion": "I bought this MacBook Pro because I am working on my MBA and I wanted a new MacBook Pro with great battery life and excellent quality fit and finish. I appreciate the fine things in life, and along with my other Apple products I was not disappointed. ",
+        "opinion": "I bought this MacBook Pro because I am working on my MBA and I wanted a new MacBook Pro with great battery life and excellent quality fit and finish.",
         "picture": "https://randomuser.me/api/portraits/women/60.jpg",
-        "ratings": "4.9"
+        "ratings": "4"
     },
     {
         "id": 3,
@@ -32,7 +32,7 @@
         "name": "Alisa",
         "opinion": "The good thing about thiss product was that it was easy to ass emble and worked without and glitches its an apple cant go wrong",
         "picture": "https://randomuser.me/api/portraits/women/87.jpg",
-        "ratings": "5.0"
+        "ratings": "3.5"
     },
     {
         "id": 6,
