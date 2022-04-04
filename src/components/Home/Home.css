@@ -1,0 +1,10 @@
+.banner-container {
+    min-height: calc(100vh - 70px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.customer-reviews h1 {
+    margin-bottom: 35px;
+}
