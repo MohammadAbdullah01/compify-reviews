@@ -1,5 +1,5 @@
 #oopss {
-    background: linear-gradient(-45deg, #fff300, #efe400);
+    background: linear-gradient(-45deg, #FA7D19, #FA7D19);
     position: fixed;
     left: 0px;
     top: 0;
@@ -75,4 +75,13 @@
     src: url("https://cdn.rawgit.com/ahmedhosna95/upload/ba6564f8/fonts/Shabnam/Shabnam.eot");
     src: url("https://cdn.rawgit.com/ahmedhosna95/upload/ba6564f8/fonts/Shabnam/Shabnam.eot?#iefix") format("embedded-opentype"), url("https://cdn.rawgit.com/ahmedhosna95/upload/ba6564f8/fonts/Shabnam/Shabnam.woff") format("woff"), url("https://cdn.rawgit.com/ahmedhosna95/upload/ba6564f8/fonts/Shabnam/Shabnam.woff2") format("woff2"), url("https://cdn.rawgit.com/ahmedhosna95/upload/ba6564f8/fonts/Shabnam/Shabnam.ttf") format("truetype");
     font-weight: normal;
+}
+
+@media only screen and (max-width: 768px) {
+    #oopss #error-text span {
+        position: relative;
+        font-size: 2rem;
+        font-weight: 900;
+        margin-bottom: 50px;
+    }
 }

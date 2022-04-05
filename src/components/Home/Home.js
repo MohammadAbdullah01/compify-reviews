@@ -16,8 +16,8 @@ const Home = () => {
                 <Row className='d-flex justify-content-center align-items-center'>
                     <Col className='my-5' sm={12} md={6}>
                         <div className='title'>
-                            <h1>“A touch of genius”</h1>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nobis ab hic eveniet aliquam sunt praesentium? Magni ducimus quis dicta maiores recusandae enim unde veniam quo? Libero fugiat modi delectus!</p>
+                            <h1>“A touch of <span style={{ color: "#9D6CE7" }}>genius</span>”</h1>
+                            <p>This unprecedented combination of system performance, on-battery performance, and battery life sets MacBook Pro apart from every other notebook !</p>
                             <button className="live-btn"> LIVE DEMO
                             </button>
                         </div>

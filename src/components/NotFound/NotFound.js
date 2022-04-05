@@ -14,7 +14,7 @@ const NotFound = () => {
                     <p className="p-b">
                         ... Back to previous page
                     </p>
-                    <a href='#' className="back">... Back to previous page</a>
+                    <a href='/' className="back">... Back to previous page</a>
                 </div>
             </div>
 
