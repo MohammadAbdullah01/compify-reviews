@@ -16,7 +16,6 @@ const Reviews = ({ review }) => {
                 </div>
                 <div className='review-description'>
                     <h3>{name}</h3>
-                    {/* <h4>{ratings}</h4> */}
                     <p style={{ color: "gray", marginBottom: "0" }}> <small>{ratings} out of 5</small></p>
                     <Rating style={{ marginBottom: "10px" }}
                         initialRating={ratings}

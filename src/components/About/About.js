@@ -3,10 +3,6 @@ import { Col, Container, Row } from 'react-bootstrap';
 import './About.css'
 
 const About = () => {
-
-
-
-
     return (
         <div className='about-container' style={{ minHeight: "81vh" }}>
             <Container>
