@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Abdullah",
         "opinion": "This is the first time I will be using an Apple computer. And I am amazed at the beautiful and sleek look of the product. I also love the Touch Bar. Definitely a good buy.",
-        "picture": "https://randomuser.me/api/portraits/men/67.jpg",
+        "picture": "https://randomuser.me/api/portraits/men/3.jpg",
         "ratings": "5"
     },
     {
@@ -21,14 +21,14 @@
         "ratings": "4.5"
     },
     {
-        "id": 5,
+        "id": 4,
         "name": "Jack",
         "opinion": "I recently started a business and this has everything I need and its really fast my favorite part on the Touch Bar",
         "picture": "https://randomuser.me/api/portraits/men/78.jpg",
         "ratings": "4.2"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Alisa",
         "opinion": "The good thing about thiss product was that it was easy to ass emble and worked without and glitches its an apple cant go wrong",
         "picture": "https://randomuser.me/api/portraits/women/87.jpg",
@@ -39,6 +39,27 @@
         "name": "Ilina",
         "opinion": "I've used the laptop for a week and I am blown away. Performance, screen, battery life, and build quality are all exceptional. If you have never owned a MacBook and you're looking to jump in, now is the perfect time.",
         "picture": "https://randomuser.me/api/portraits/women/22.jpg",
+        "ratings": "4.7"
+    },
+    {
+        "id": 7,
+        "name": "Mustak",
+        "opinion": "I'm rating this new MacBook Pro Good instead of Excellent for 2 reasons: 1-the fan motor runs sooner, more often and for longer than my previous MacBook Pro model",
+        "picture": "https://randomuser.me/api/portraits/men/67.jpg",
+        "ratings": "3.8"
+    },
+    {
+        "id": 8,
+        "name": "Hedayat",
+        "opinion": "t is a great personal computer. Went with the touch bar and 256gb because it was on sale. Definitely go with more storage because nowadays to back up your phone you will need at least 128gb. The color displays are great.",
+        "picture": "https://randomuser.me/api/portraits/men/6.jpg",
+        "ratings": "4.3"
+    },
+    {
+        "id": 9,
+        "name": "Lisa",
+        "opinion": " was very nervous about purchasing a MacBook Pro since I’ve been using an HP laptop the past few years. However, since teachers use MacBooks in many schools I wanted to give it a try! I really like my Pro and highly recommend it.",
+        "picture": "https://randomuser.me/api/portraits/women/21.jpg",
         "ratings": "4.7"
     }
 ]

@@ -56,6 +56,8 @@ const Dashboard = () => {
                         <YAxis dataKey="sell" />
                         <Legend></Legend>
                     </LineChart>
+
+
                     <br />
                 </Col>
                 <Col sm={12} md={6}>

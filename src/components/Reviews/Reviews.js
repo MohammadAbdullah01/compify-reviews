@@ -6,7 +6,6 @@ import Review from '../Review/Review'
 const Reviews = () => {
 
     const [reviews, setReviews] = useReviews()
-    console.log(reviews)
     return (
         <Container>
             <h1 className='text-center my-5'>Customer Reviews</h1>
